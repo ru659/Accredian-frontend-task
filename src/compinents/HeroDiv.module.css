@@ -1,0 +1,5 @@
+.hero-image {
+    background-image: url('../image/accre.png');
+    background-size: cover;
+    height: 400px; /* Set the desired height */
+}
